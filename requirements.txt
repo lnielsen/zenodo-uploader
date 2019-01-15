@@ -1,0 +1,5 @@
+celery[amqp,msgpack,redis]==4.2.0
+click==7.0
+requests==2.21.0
+SQLAlchemy-Utils==0.33.11
+SQLAlchemy==1.2.16

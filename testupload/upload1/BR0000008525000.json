@@ -1,0 +1,58 @@
+{
+    "@context": {
+        "dc": "http://purl.org/dc/elements/1.1/",
+        "dcterms": "http://purl.org/dc/terms/",
+        "dwc": "http://rs.tdwg.org/dwc/terms/",
+        "gbif": "http://rs.gbif.org/terms/1.0"
+    },
+    "@graph": [
+        {
+            "dwc:basisOfRecord": "PRESERVED_SPECIMEN",
+            "dwc:scientificName": "Barleria velutina Champl.",
+            "dwc:taxonRank": "SPECIES",
+            "dwc:countryCode": "CD",
+            "dwc:occurrenceID": "http://www.botanicalcollections.be/specimen/BR0000008525000",
+            "dwc:catalogNumber": "BR0000008525000",
+            "dwc:genus": "Barleria",
+            "dwc:specificEpithet": "velutina",
+            "dwc:country": "Congo, Democratic Republic of the",
+            "dwc:year": 1985,
+            "dwc:eventDate": "1985-05-15",
+            "dwc:locality": "Shinkolobwe, terr[itoire] Kambove",
+            "dwc:recordedBy": "Malaisse F. & Goetghebeur P.",
+            "dwc:decimalLatitude": -11.0333,
+            "dwc:decimalLongitude": 26.5667,
+            "dwc:geodeticDatum": "WGS84",
+            "setID": "BR",
+            "dc:typeStatus": "HOLOTYPE",
+            "dcterms:identifier": "http://www.botanicalcollections.be/specimen/BR0000008525000",
+            "dwc:month": 5,
+            "dwc:day": 15,
+            "dcterms:modified": "2013-09-23",
+            "dwc:recordNumber": "885",
+            "dwc:habitat": "s.h.",
+            "dcterms:rightsHolder": "Meise Botanic Garden",
+            "dwc:kingdom": "Plantae",
+            "dwc:phylum": "Tracheophyta",
+            "dwc:order": "Lamiales",
+            "dwc:family": "Acanthaceae",
+            "dwc:class": "Magnoliopsida",
+            "dwc:nomenclaturalCode": "ICBN",
+            "dwc:institutionCode": "BR",
+            "dwc:locationRemarks": "Description: Coroll[e] bleu violet; l[èvre] sup[érieure] (2) << l[èvre] inf[érieure] (3)",
+            "dwc:preparations": "HerbariumSheet",
+            "dc:type": "PhysicalObject",
+            "dwc:institutionID": "http://biocol.org/urn:lsid:biocol.org:col:15605",
+            "dwc:taxonomicStatus": "unchecked name",
+            "dcterms:language": "fra",
+            "@id": "http://www.botanicalcollections.be/specimen/BR0000008525000",
+            "@type": "dwc:Occurrence"
+        },
+        {
+            "dcterms:references": "http://www.botanicalcollections.be/specimen/BR0000008525000",
+            "dcterms:type": "StillImage",
+            "@type": "gbif:Multimedia"
+        }
+    ]
+}
+

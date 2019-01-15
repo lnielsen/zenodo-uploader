@@ -1,0 +1,226 @@
+{
+  "access_right": "open",
+  "communities": [{
+      "identifier": "ecfunded"
+    },
+    {
+      "identifier": "icedigtest"
+    },
+    {
+      "identifier": "zenodo"
+    }
+  ],
+  "creators": [{
+    "name": "Meise Botanic Garden"
+  }],
+  "description": "Part of a training dataset of scanned herbarium specimens. The data paper and a summary landing page will be published on Zenodo \t\t\tas it gets published.<br><br>Content of this deposition:<br><br>- A JSON-LD datafile listing the label data associated with this herbarium specimen. The Darwin and \t\t\tDublin Core data standards are used for most values.<br>- A JPEG image file of the scanned herbarium sheet.<br>- A lossless TIFF image from which the JPEG image has been derived.",
+  "doi": "10.5281/zenodo.1480989",
+  "grants": [{
+    "id": "10.13039/501100000780::777483"
+  }],
+  "image_type": "photo",
+  "keywords": [
+    "biodiversity",
+    "herbarium sheet"
+  ],
+  "language": "fra",
+  "license": "CC-BY-4.0",
+  "prereserve_doi": {
+    "doi": "10.5281/zenodo.1480989",
+    "recid": 1480989
+  },
+  "publication_date": "2018-11-08",
+  "related_identifiers": [{
+    "identifier": "http://www.botanicalcollections.be/specimen/BR0000008525000",
+    "relation": "isAlternateIdentifier",
+    "scheme": "url"
+  }],
+  "subjects": [{
+      "identifier": "http://rs.tdwg.org/dwc/terms/basisOfRecord",
+      "scheme": "url",
+      "term": "PRESERVED_SPECIMEN"
+    },
+    {
+      "identifier": "http://rs.tdwg.org/dwc/terms/scientificName",
+      "scheme": "url",
+      "term": "Barleria velutina Champl."
+    },
+    {
+      "identifier": "http://rs.tdwg.org/dwc/terms/taxonRank",
+      "scheme": "url",
+      "term": "SPECIES"
+    },
+    {
+      "identifier": "http://rs.tdwg.org/dwc/terms/countryCode",
+      "scheme": "url",
+      "term": "CD"
+    },
+    {
+      "identifier": "http://rs.tdwg.org/dwc/terms/occurrenceID",
+      "scheme": "url",
+      "term": "http://www.botanicalcollections.be/specimen/BR0000008525000"
+    },
+    {
+      "identifier": "http://rs.tdwg.org/dwc/terms/catalogNumber",
+      "scheme": "url",
+      "term": "BR0000008525000"
+    },
+    {
+      "identifier": "http://rs.tdwg.org/dwc/terms/genus",
+      "scheme": "url",
+      "term": "Barleria"
+    },
+    {
+      "identifier": "http://rs.tdwg.org/dwc/terms/specificEpithet",
+      "scheme": "url",
+      "term": "velutina"
+    },
+    {
+      "identifier": "http://rs.tdwg.org/dwc/terms/country",
+      "scheme": "url",
+      "term": "Congo, Democratic Republic of the"
+    },
+    {
+      "identifier": "http://rs.tdwg.org/dwc/terms/year",
+      "scheme": "url",
+      "term": "1985"
+    },
+    {
+      "identifier": "http://rs.tdwg.org/dwc/terms/eventDate",
+      "scheme": "url",
+      "term": "1985-05-15"
+    },
+    {
+      "identifier": "http://rs.tdwg.org/dwc/terms/locality",
+      "scheme": "url",
+      "term": "Shinkolobwe, terr[itoire] Kambove"
+    },
+    {
+      "identifier": "http://rs.tdwg.org/dwc/terms/recordedBy",
+      "scheme": "url",
+      "term": "Malaisse F. & Goetghebeur P."
+    },
+    {
+      "identifier": "http://rs.tdwg.org/dwc/terms/decimalLatitude",
+      "scheme": "url",
+      "term": "-11.0333"
+    },
+    {
+      "identifier": "http://rs.tdwg.org/dwc/terms/decimalLongitude",
+      "scheme": "url",
+      "term": "26.5667"
+    },
+    {
+      "identifier": "http://rs.tdwg.org/dwc/terms/geodeticDatum",
+      "scheme": "url",
+      "term": "WGS84"
+    },
+    {
+      "identifier": "http://purl.org/dc/elements/1.1/typeStatus",
+      "scheme": "purl",
+      "term": "HOLOTYPE"
+    },
+    {
+      "identifier": "http://purl.org/dc/terms/identifier",
+      "scheme": "purl",
+      "term": "http://www.botanicalcollections.be/specimen/BR0000008525000"
+    },
+    {
+      "identifier": "http://rs.tdwg.org/dwc/terms/month",
+      "scheme": "url",
+      "term": "5"
+    },
+    {
+      "identifier": "http://rs.tdwg.org/dwc/terms/day",
+      "scheme": "url",
+      "term": "15"
+    },
+    {
+      "identifier": "http://purl.org/dc/terms/modified",
+      "scheme": "purl",
+      "term": "2013-09-23"
+    },
+    {
+      "identifier": "http://rs.tdwg.org/dwc/terms/recordNumber",
+      "scheme": "url",
+      "term": "885"
+    },
+    {
+      "identifier": "http://rs.tdwg.org/dwc/terms/habitat",
+      "scheme": "url",
+      "term": "s.h."
+    },
+    {
+      "identifier": "http://purl.org/dc/terms/rightsHolder",
+      "scheme": "purl",
+      "term": "Meise Botanic Garden"
+    },
+    {
+      "identifier": "http://rs.tdwg.org/dwc/terms/kingdom",
+      "scheme": "url",
+      "term": "Plantae"
+    },
+    {
+      "identifier": "http://rs.tdwg.org/dwc/terms/phylum",
+      "scheme": "url",
+      "term": "Tracheophyta"
+    },
+    {
+      "identifier": "http://rs.tdwg.org/dwc/terms/order",
+      "scheme": "url",
+      "term": "Lamiales"
+    },
+    {
+      "identifier": "http://rs.tdwg.org/dwc/terms/family",
+      "scheme": "url",
+      "term": "Acanthaceae"
+    },
+    {
+      "identifier": "http://rs.tdwg.org/dwc/terms/class",
+      "scheme": "url",
+      "term": "Magnoliopsida"
+    },
+    {
+      "identifier": "http://rs.tdwg.org/dwc/terms/nomenclaturalCode",
+      "scheme": "url",
+      "term": "ICBN"
+    },
+    {
+      "identifier": "http://rs.tdwg.org/dwc/terms/institutionCode",
+      "scheme": "url",
+      "term": "BR"
+    },
+    {
+      "identifier": "http://rs.tdwg.org/dwc/terms/locationRemarks",
+      "scheme": "url",
+      "term": "Description: Coroll[e] bleu violet; l[\u00e8vre] sup[\u00e9rieure] (2) << l[\u00e8vre] inf[\u00e9rieure] (3)"
+    },
+    {
+      "identifier": "http://rs.tdwg.org/dwc/terms/preparations",
+      "scheme": "url",
+      "term": "HerbariumSheet"
+    },
+    {
+      "identifier": "http://purl.org/dc/elements/1.1/type",
+      "scheme": "purl",
+      "term": "PhysicalObject"
+    },
+    {
+      "identifier": "http://rs.tdwg.org/dwc/terms/institutionID",
+      "scheme": "url",
+      "term": "http://biocol.org/urn:lsid:biocol.org:col:15605"
+    },
+    {
+      "identifier": "http://rs.tdwg.org/dwc/terms/taxonomicStatus",
+      "scheme": "url",
+      "term": "unchecked name"
+    },
+    {
+      "identifier": "http://purl.org/dc/terms/language",
+      "scheme": "purl",
+      "term": "fra"
+    }
+  ],
+  "title": "Herbarium specimen image of Barleria velutina Champl., part of the collection of Meise Botanic Garden",
+  "upload_type": "image"
+}
