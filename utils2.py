@@ -15,11 +15,11 @@ import config
 
 def iter_uploads(path):
     """Iterate CSV files in a direcotry."""
-    with os.scandir(path) as it:
-        for entry in it:
-            if not entry.name.startswith('.') and entry.is_file():
-                for row in iter_csv(entry.path):
-                    yield make_upload(entry.path, row)
+    for p in os.listdir(path):
+        entry = join(path, p)
+        if not entry.startswith('.') and isfile(entry):
+            for row in iter_csv(entry):
+                yield make_upload(entry, row)
 
 
 def iter_csv(path):
